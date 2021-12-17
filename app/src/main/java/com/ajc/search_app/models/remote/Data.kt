@@ -1,7 +1,5 @@
 package com.ajc.search_app.models.remote
 
-
-import com.ajc.search_app.models.remote.Address
 import com.google.gson.annotations.SerializedName
 
 data class Data(

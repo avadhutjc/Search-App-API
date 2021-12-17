@@ -1,7 +1,6 @@
 package com.ajc.search_app.models.remote;
 
 import android.os.Parcel;
-
 import com.arlib.floatingsearchview.suggestions.model.SearchSuggestion;
 
 public class Suggestions implements SearchSuggestion {
